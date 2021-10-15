@@ -9,8 +9,7 @@ import "@openzeppelin/contracts/token/ERC20/ERC20Pausable.sol";
 
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 
-// LEMON is 50,000,000 Total Supply
-// LMN ICO is coming 🍋🔥
+//  LMN (🍋) is 50,000,000 Total Supply
 
 contract LMN is ERC20, ERC20Detailed, ERC20Capped, ERC20Pausable {
     constructor()
