@@ -1,3 +1,6 @@
+![alt text](https://lemonnetwork.sale/static/media/logo-blanc.56aad3b7.png)
+
+
 # Contracts on EWC
 
 **EWC Explorer:** https://explorer.energyweb.org/
