@@ -1,6 +1,6 @@
 # Contracts on EWC
 
-EWC Explorer: https://explorer.energyweb.org/
+**EWC Explorer:** https://explorer.energyweb.org/
 
 🍋 **LEMON ICO**
 Address: **0x1b3F1197A1eEdC27e364186e13F343e531e3Ac59**
